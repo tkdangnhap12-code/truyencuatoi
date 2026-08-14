@@ -1,0 +1,6 @@
+{
+  "name": "AI Novel Studio",
+  "description": "Phần mềm viết truyện và tiểu thuyết chuyên nghiệp với trợ lý AI, quản lý kịch bản, nhân vật, bối cảnh và kiểm tra logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
